@@ -27,3 +27,12 @@
 - As a player, I want the game to share my wins to Facebook so everyone can know how good I am.
 - As a player, I want to be able to play the game in the language that I speak, so that I can fully understand the game.
 - As a player with a visual limitation, I want to be able to play the game so that I can access its functionality.
+
+
+
+## Wireframe 
+
+
+
+''' md 
+![alt text](https://balsamiq.cloud/shzjhad/pf3pzeq/r2278)
